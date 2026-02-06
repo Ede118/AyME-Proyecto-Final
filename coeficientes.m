@@ -1,6 +1,6 @@
 %% Condiciones Iniciales
-init_w_l = 1;
-
+init_w_l = 0;
+init_theta_l = 0;
 
 %% Sistema de la Carga
 % Coeficientes
