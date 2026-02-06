@@ -1,3 +1,7 @@
+%% Condiciones Iniciales
+init_w_l = 1;
+
+
 %% Sistema de la Carga
 % Coeficientes
 b_l = 0.1;                          % Incert +- 0.3
