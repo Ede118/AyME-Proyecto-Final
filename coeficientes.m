@@ -46,7 +46,7 @@ Pp = 3;
 lambda = 0.016;
 L_q = 5.8;
 L_s = 6.6;
-L_ls = 0.8
+L_ls = 0.8;
 
 % Subsistema Termico
 R_sREF = 1.02;
