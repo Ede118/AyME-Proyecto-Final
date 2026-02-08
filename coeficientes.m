@@ -41,6 +41,13 @@ T_amb = 20;                             % Var -15 ~ 40
 J_m = 14.0e-6;
 b_m = 15.0e-6;
 
+%% Sistema Mecanico Equivalente
+% Coeficientes
+J_eq = J_m + J_l/(r_m2l^2);
+b_eq = b_m + b_l/(r_m2l^2);
+
+
+%% Sistema de la PMSM
 % Subsistema Electromagnetico
 Pp = 3;
 lambda = 0.016;
