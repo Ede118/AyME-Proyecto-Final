@@ -60,6 +60,7 @@ R_sREF = 1.02;
 alpha_Cu = 3.9e-3;
 C_ts = 0.818;
 R_tsamb = 146.7;
+T_sREF = 20;
 
 %% Sistema de Alimentacion
 % Especificaciones de operacion
